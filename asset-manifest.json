@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monchhichi-land/static/css/main.37bfb234.css",
+    "main.js": "/monchhichi-land/static/js/main.9102959a.js",
+    "static/js/453.55b65010.chunk.js": "/monchhichi-land/static/js/453.55b65010.chunk.js",
+    "index.html": "/monchhichi-land/index.html",
+    "main.37bfb234.css.map": "/monchhichi-land/static/css/main.37bfb234.css.map",
+    "main.9102959a.js.map": "/monchhichi-land/static/js/main.9102959a.js.map",
+    "453.55b65010.chunk.js.map": "/monchhichi-land/static/js/453.55b65010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37bfb234.css",
+    "static/js/main.9102959a.js"
+  ]
+}
