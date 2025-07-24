@@ -82,7 +82,7 @@ const UploadForm: React.FC<UploadFormProps> = ({ onSubmit }) => {
           Upload a photo of your beloved Monchhichi doll and add it to our community collection!
         </p>
         
-        <form onSubmit={handleSubmit} className="upload-form">
+        <form onSubmit={handleSubmit} className="upload-form" role="form">
           <div className="form-grid">
             <div className="upload-area">
               <div 
